@@ -1,7 +1,7 @@
 # Java
-													Java Projects 🤷‍♂️ 
+								Java Projects 🤷‍♂️ 
 
-											Read README before Pull or Forks
+							Read README before Pull or Forks
 
 All the projects in this rep are Java projects only. Do not send Pulls for any other projects. 
 
