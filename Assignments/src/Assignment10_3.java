@@ -8,7 +8,7 @@ public class Assignment10_3 extends Thread
 		t1.start();
 		try 
 		{
-			System.out.println("Current thread: "+Thread.currentThread().getName());          //thread will remain main as start() is never called
+			System.out.println("Current thread: "+Thread.currentThread().getName());     
 			t1.join();
 		} 
 		catch (InterruptedException e) 
