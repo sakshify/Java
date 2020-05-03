@@ -17,3 +17,5 @@ JDBC project requires Connector/J too. Make sure you placed it in your local dir
  Pull requests will be accepted only after evaluation.
  
  There is a contact link besides rep title. Contact me ONLY if necessary.
+
+Owner : github.com/yashimself
